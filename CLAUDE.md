@@ -1,4 +1,4 @@
-# Segundo Cérebro — Constituição do Projeto
+# Oráculo — Constituição do Projeto
 
 Este repositório é a memória externa do usuário
 Cobre qualquer área da vida: trabalho, saúde, finanças, relacionamentos, casa,

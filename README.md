@@ -1,4 +1,4 @@
-# Segundo Cérebro
+# Oráculo
 
 Memória externa pessoal — cobre qualquer área da vida (trabalho, saúde, finanças,
 relacionamentos, hobbies, o que surgir), não só trabalho. 100% arquivos markdown

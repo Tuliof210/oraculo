@@ -14,4 +14,4 @@ arquivo por sigla.
 
 | Termo | Significado |
 | --- | --- |
-| Oráculo | Nome deste segundo cérebro: memória externa pessoal em markdown, sem pastas fixas, cobrindo qualquer área da vida. |
+| Oráculo | Nome desta base: memória externa pessoal em markdown, sem pastas fixas, cobrindo qualquer área da vida. |
