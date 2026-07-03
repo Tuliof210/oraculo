@@ -25,8 +25,9 @@ Ou use os slash commands:
 ## Estrutura
 
 - `diario/` — registro bruto, append-only (1 arquivo por dia).
-- `contatos/`, `projetos/`, `stack/`, `protocolos/`, `tarefas/`, `kpis/` — base
-  curada (1 arquivo por coisa com ciclo de vida próprio).
+- base curada — sem pastas fixas: cada categoria (`contatos/`, `projetos/`,
+  `saude/`, `financas/`...) nasce quando o assunto exigir, 1 arquivo por coisa
+  com ciclo de vida próprio.
 - `glossario.md` — siglas e termos (arquivo único de consulta).
 - `INDEX.md` — catálogo de todos os arquivos (regenerável via `/indexar`).
 

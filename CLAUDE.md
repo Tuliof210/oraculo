@@ -34,8 +34,9 @@ Na dúvida entre capturar ou não: capture no diário. É append-only, não cust
 2. Cada fato tem UM dono. Identifique o arquivo dono do assunto.
 3. Se não existe dono, crie o arquivo (e a pasta, se for tipo novo) seguindo o
    frontmatter abaixo, e registre-o no `INDEX.md`. Não existe lista fechada de
-   pastas/tipos — crie a categoria que o assunto pedir (ex.: `saude/`,
-   `financas/`, `pessoal/`, `viagens/`), sem se restringir às pastas atuais.
+   pastas/tipos: a base curada nasce vazia e as categorias (`contatos/`,
+   `projetos/`, `saude/`, `financas/`, o que for) surgem sob demanda, conforme
+   os assuntos que o usuário realmente trouxer.
 4. **Dedução única:** um fato mora num só lugar. Se é relevante em outro arquivo,
    crie um LINK (caminho relativo), nunca copie o conteúdo.
 
@@ -64,7 +65,7 @@ contradições ou dúvidas encontradas.
 
 ```yaml
 ---
-tipo: <contato|projeto|stack|protocolo|tarefa|kpi|saude|financas|pessoal|...>
+tipo: <contato|projeto|saude|financas|pessoal|...>  # livre, conforme o assunto
 status: <ativo|arquivado|...>
 tags: [...]
 criado: AAAA-MM-DD

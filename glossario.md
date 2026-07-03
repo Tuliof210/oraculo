@@ -14,4 +14,4 @@ arquivo por sigla.
 
 | Termo | Significado |
 | --- | --- |
-| SC | Segundo Cérebro — esta base de memória externa. |
+| Oráculo | Nome deste segundo cérebro: memória externa pessoal em markdown, sem pastas fixas, cobrindo qualquer área da vida. |
