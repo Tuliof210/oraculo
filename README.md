@@ -8,11 +8,13 @@ Sem banco de dados, sem embeddings, sem RAG. A base é lida sob demanda com
 
 ## Como usar
 
-Abra esta pasta no Claude Code e **converse em linguagem natural**. Cada mensagem
-pode ser uma pergunta (o Claude lê a base e responde), uma captura (registra a
-informação) ou ambas. O Claude é o gestor: decide qual arquivo é dono de cada
+Abra esta pasta no Claude Code/Codex e **converse em linguagem natural**. Cada mensagem
+pode ser uma pergunta (a IA lê a base e responde), uma captura (registra a
+informação) ou ambas. A IA é a gestora: decide qual arquivo é dono de cada
 fato, o que atualizar e quando criar arquivo/pasta nova. O protocolo completo
-está em [CLAUDE.md](CLAUDE.md).
+está em [CLAUDE.md](CLAUDE.md) ou [AGENTS.md](AGENTS.md).
+
+## Comandos
 
 Ou use os slash commands:
 

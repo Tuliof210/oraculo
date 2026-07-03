@@ -1,9 +1,9 @@
 # Segundo Cérebro — Constituição do Projeto
 
-Este repositório é a memória externa de [SEU NOME] — não se limita a trabalho.
+Este repositório é a memória externa do usuário
 Cobre qualquer área da vida: trabalho, saúde, finanças, relacionamentos, casa,
 hobbies, viagens, aprendizado, o que for. Cada arquivo é texto puro versionado
-em git. Você (Claude Code) é o gestor desta base: lê para responder e escreve
+em git. Você é o gestor desta base: lê para responder e escreve
 para mantê-la viva e correta.
 
 ## Modelo de duas camadas (fundamental)
@@ -20,6 +20,7 @@ base). Nunca perca informação por sobrescrever cedo demais.
 ## Classificação de intenção (a cada mensagem)
 
 Decida se a mensagem é:
+
 - **PERGUNTA** → modo leitura. Consulte `INDEX.md`, faça grep, leia só os
   arquivos relevantes, responda. Não escreva nada.
 - **CAPTURA** → registre no diário do dia e, se for fato durável, promova pro
@@ -65,7 +66,7 @@ contradições ou dúvidas encontradas.
 
 ```yaml
 ---
-tipo: <contato|projeto|saude|financas|pessoal|...>  # livre, conforme o assunto
+tipo: <contato|projeto|saude|financas|pessoal|...> # livre, conforme o assunto
 status: <ativo|arquivado|...>
 tags: [...]
 criado: AAAA-MM-DD
